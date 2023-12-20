@@ -1,0 +1,34 @@
+/* TicketList.css */
+
+/* Style for the container div */
+.ticket-list-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  /* Style for the list heading */
+  .list-heading {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  /* Style for list items */
+  .ticket-item {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #fff;
+  }
+  
+  /* Style for ticket titles */
+  .ticket-title {
+    font-weight: bold;
+    color: #007bff;
+  }
+  
